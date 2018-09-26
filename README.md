@@ -4,4 +4,4 @@
 
 2. Copy `solution.py` to `data` directory
 
-3. Run Spark Job: spark-submit /tmp/data/solution.py
+3. Run Spark Job: `# spark-submit /tmp/data/solution.py`
