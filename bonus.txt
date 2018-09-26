@@ -1,0 +1,7 @@
+It would be interesting to see the median distance from request to POI. Since
+the avg distance from POI to request is 400 km, the whole POI assignment
+looks random wrt how this particular POI triggers the request generation.
+To test this, I would want to see how density is affected on the different
+length of radiuses, and see if there are more requests closer to the POI.
+If the density increases as the raduis gets smaller, then something in the
+close proximity of POI or POI itself possibly triggers request activity.
